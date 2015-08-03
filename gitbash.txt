@@ -1,0 +1,39 @@
+$ls
+
+$cd Desktop
+
+#copy clipboard for URL
+
+$ git config --global user.name "emirazlkfly"
+$ git config --global user.email "emirazlkfly@gmail.com"
+
+
+$ git clone #paste url
+
+$cd uitm
+
+$ git add test.txt
+
+$ git commit -m "Add new file"
+
+$ git push
+
+# enter username & password
+
+
+$cd uitm
+
+$ls
+#to list all files in folder
+
+$ git add gitbash.txt
+
+$ git commit -m "testing another file"
+#to commit
+
+$ git push
+
+#username & password
+
+
+https://github.com/emirazlkfly/uitm.git
